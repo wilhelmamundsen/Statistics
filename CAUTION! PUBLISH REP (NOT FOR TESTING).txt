@@ -1,3 +1,0 @@
-copy files from "statistic" to this folder "statistics" before publishing to github statistics
-
-to test and tweak, use files in "statistic" and publish to github statistics-workbench (private)
